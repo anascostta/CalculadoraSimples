@@ -1,7 +1,8 @@
 # Calculadora Simples
-Projeto desenvolvido em C# utilizando Windows Forms no Visual Studio.
+📚 Projeto acadêmico - Programador de Sistemas. 
+Desenvolvido em C# utilizando Windows Forms no Visual Studio.
 
-# Funcionalidades
+## Funcionalidades
 - Soma (+)
 - Subtração (-)
 - Multiplicação (*)
@@ -11,7 +12,7 @@ Projeto desenvolvido em C# utilizando Windows Forms no Visual Studio.
 - Botão AC (Clear)
 - Vírgula decimal
 
-# Objetivo
+## Objetivo
 Projeto criado para praticar lógica de programação e eventos no Windows Forms, utilizando vídeos como inspiração e implementando uma solução própria.
 
 ## 📸 Interface
