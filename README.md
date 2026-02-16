@@ -3,6 +3,6 @@ Projeto desenvolvido em C# Windows Forms.
 
 # Funcionalidades
 - Soma, subtração, multiplicação, porcentagem e divisão
-- Botão ±
+- Botão +-
 - Botão AC (Clear)
 - Vírgula decimal
